@@ -34,7 +34,7 @@ Reach me via:
 
 | **Program** | **Platform** | **Result** | **Report** |
 |-------------|--------------|------------|------------|
-| Confidential program | HackenProof | 2 High | Private |
+| Rain USDR | HackenProof | 2 High | Private |
 | Arcadia Finance | HackenProof | 1 valid finding (duplicate) | Private |
 | Shift DeFi | Self-hosted bounty | 1 valid finding (duplicate) | Private |
 
